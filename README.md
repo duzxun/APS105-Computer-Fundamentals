@@ -2,7 +2,7 @@
 
 This repository contains the labs and materials from the APS105 Computer Fundamentals course at University of Toronto (Winter 2020).
 
-## Labs & Projects
+## Labs 
 - [Lab 1: Simple Computations](./Lab1)
 - [Lab 2: Programs That Calculate](./Lab2)
 - [Lab 3:  Computation and Control Flow in C - Resistor Colour Codes](./Lab3)
